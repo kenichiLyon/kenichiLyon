@@ -27,6 +27,13 @@
 
 **Focus:** AIOps,AI SRE,Product Manage
 
+
+## Acadamic Project
+
+**CloudTraceHub:** A AI Agentic Util work for Auto DevOps + AI
+
+
+
 ## More
 
 My Blog
