@@ -30,7 +30,7 @@
 
 ## Acadamic Project
 
-**CloudTraceHub:** A AI Agentic Util work for Auto DevOps + AI
+**CloudTraceHub:** An AI Agentic Util work for Auto DevOps + AI
 
 
 
