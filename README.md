@@ -36,7 +36,8 @@
 
 ## Interest Project
 
-** sealdice-core** <https://github.com/sealdice/sealdice-core>
+**sealdice-core**:
+ <https://github.com/sealdice/sealdice-core>
  ---------- Manual & Core Contributor and Organization member
 
 ## More
