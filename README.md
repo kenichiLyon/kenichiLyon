@@ -8,7 +8,7 @@
 
 ## About Me
 
-**Name：** 山本健一 (Yamamoto Kenichi) / 顾子深 (Tzushin Gu)
+**Internet Name：** 山本健一 (Yamamoto Kenichi) / 顾子深 (Tzushin Gu)
 
 
 
@@ -30,9 +30,14 @@
 
 ## Acadamic Project
 
-**CloudTraceHub:** An AI Agentic Util work for Auto DevOps + AI
+**CloudTraceHub** <https://github.com/kenichilyon/cloudtracehub-agent> ： An AI Agentic Util work for Auto DevOps + AI  
+------- Maintainer / self develop
 
 
+## Interest Project
+
+** sealdice-core** <https://github.com/sealdice/sealdice-core>
+ ---------- Manual & Core Contributor and Organization member
 
 ## More
 
