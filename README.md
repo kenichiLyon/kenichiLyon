@@ -14,9 +14,10 @@
 
 **Major:** 人工智能技术应用/计算机网络技术
 
+**Language:** 简体中文/繁體中文/粵語/English
 
 
-**Birth:** 2004.08 - Virgo
+**Birth:** 2004.08 Virgo
 
 
 ## About My Coding
@@ -39,6 +40,11 @@
 **sealdice-core**:
  <https://github.com/sealdice/sealdice-core>
  ---------- Manual & Core Contributor and Organization member
+
+## Competition Project
+
+**loong64-go**: 2026 China SoftWare Cup (中国软件杯)- B1:An LLM for Education Review.
+--------- Self-Develop
 
 ## More
 
