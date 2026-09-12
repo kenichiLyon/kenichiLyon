@@ -43,7 +43,7 @@
 
 ## Competition Project
 
-**loong64-go**: 2026 China SoftWare Cup (中国软件杯)- B1:An LLM for Education Review.
+**loong64-go**: 2026 China SoftWare Cup (中国软件杯)- B1:An LLM for Education Review in LoongArch64
 --------- Self-Develop
 
 ## More
