@@ -6,6 +6,9 @@
 
 
 
+
+![kenichiLyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenichiLyon)](https://github.com/kenichilyon/github-readme-stats)
+
 ## About Me
 
 **Internet Name：** 山本健一 (Yamamoto Kenichi) / 顾子深 (Tzushin Gu)
